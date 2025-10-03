@@ -26,6 +26,7 @@ public class Main {
         csll.deleteNode(4);
         csll.traverse();
         csll.deleteCSLL();
+        csll.traverse();
 
     }
 }
