@@ -24,8 +24,7 @@ public class Main {
         System.out.println(csll.head.value);
         csll.traverse();
         csll.deleteNode(4);
-        csll.traverse();
-        csll.deleteCSLL();
+
 
     }
 }
